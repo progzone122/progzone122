@@ -1,2 +1,3 @@
 - Привет всем, меня зовут @progzone122
 - Я новичок в программировании, буду рад знакомствам)
+- Мой YouTube канал - https://www.youtube.com/ProgrammingZone_official
