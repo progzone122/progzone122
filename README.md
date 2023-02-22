@@ -1,5 +1,6 @@
 <p align="center">
-  <picture>
-  <source media="(http://github-readme-streak-stats.herokuapp.com?user=progzone122&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)" />
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=progzone122&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=progzone122&theme=default" />
+</picture>
 </p>
