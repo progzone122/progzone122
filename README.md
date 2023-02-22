@@ -1,4 +1,4 @@
-<div align="center" height="35em">
+<div height="35em" style="display: flex;">
     <div height="100%" style="margin-right: 1em;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=progzone122&theme=dark" />
