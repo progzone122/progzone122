@@ -8,7 +8,6 @@
 <img width="50" height="50" src="https://github.com/user-attachments/assets/152b7806-480b-4d60-bde9-9f14c1f245ee">
 <img width="50" height="50" src="https://github.com/user-attachments/assets/eb31f250-bc31-49b1-8a25-71dff3c7068a">
 <img width="50" height="50" src="https://github.com/user-attachments/assets/8f5b2373-9aae-4e43-90b8-30b032da6174">
-<img width="50" height="50" src="https://github.com/user-attachments/assets/338b2b85-ab45-475a-b9cb-aeeca3512d22">
 <img width="50" height="50" src="https://github.com/user-attachments/assets/7474170b-b58b-4fc5-b21f-a0c7c0c15e22">
 
 ### BackEnd
@@ -28,6 +27,7 @@
 <img width="50" height="50" src="https://github.com/user-attachments/assets/501d24dd-db12-4493-a666-23871661383e">
 <img width="50" height="50" src="https://github.com/user-attachments/assets/4ab2941d-1c99-4ec6-887a-539f064244b6">
 <img width="50" height="50" src="https://github.com/user-attachments/assets/a397d947-1b1e-4c6a-93e4-fe1dd9d71b8f">
+<img width="50" height="50" src="https://github.com/user-attachments/assets/338b2b85-ab45-475a-b9cb-aeeca3512d22">
 
 ### Scripts development
 <img width="50" height="50" src="https://github.com/user-attachments/assets/ffc9dfbe-d62b-4601-a948-10e0033b466a">
