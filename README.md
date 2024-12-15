@@ -1,4 +1,5 @@
 # Hi! My nickname is DiabloSat, welcome to my GitHub! 👋
+<img src="https://www.codewars.com/users/progzone122/badges/large" width="300">
 
 ## Skills
 ### FrontEnd
