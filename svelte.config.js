@@ -14,7 +14,7 @@ const config = {
 		}),
 		paths: {
 			base: process.argv.includes('dev') ? '' : "/progzone122"
-		}
+		},
 	},
 
 	extensions: ['.svelte', '.svx']

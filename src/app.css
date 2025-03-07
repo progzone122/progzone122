@@ -1,16 +1,15 @@
-@import "tailwindcss";
-@plugin "@tailwindcss/typography";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@theme {
-    --color-mint-500: oklch(0.72 0.11 178);
-    /*--color-bg1: oklch(49.2 51.5 348.962);*/
-    /*--color-bg2: oklch(0.585 0.268 328.36);*/
-    --color-bg1: oklch(0.696 0.244 327.809);
-    --color-bg2: oklch(0.597 0.232 328.008);
-    --color-accent: oklch(0.59 0.291 311.607);
-    --color-primary: oklch(0.515 0.255 305.321);
-    --color-primary2: oklch(0.729 0.234 329.326);
+:root {
+    --color-bg1: theme(colors.bg1);
+    --color-bg2: theme(colors.bg2);
+    --color-accent: theme(colors.accent);
+    --color-primary: theme(colors.primary);
+    --color-primary2: theme(colors.primary2);
 }
+
 body {
     height: 100%;
     background:
