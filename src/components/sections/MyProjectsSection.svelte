@@ -5,61 +5,61 @@
         {
             name: "AniShip",
             description: "Convenient and functional unofficial client for easy anime viewing on PCs and laptops with Shikimori integration",
-            preview: "/progzone122/projects/aniship.png",
+            preview: "/projects/aniship.png",
             link: "https://github.com/progzone122/AniShip"
         },
         {
             name: "Warp-gui",
             description: "A GUI application based on warp-cli for linux written in Rust & tauri",
-            preview: "/progzone122/projects/warp-gui.png",
+            preview: "/projects/warp-gui.png",
             link: "https://github.com/progzone122/warp-cloudflare-gui-rust"
         },
         {
             name: "FUCKYOUMOTO",
             description: "A project to document Motorola devices. Schematics, firmware, etc.<br />Unofficially found a way to unlock bootloader of penangf and fogorow devices",
-            preview: "/progzone122/projects/fuckyoumoto.png",
+            preview: "/projects/fuckyoumoto.png",
             link: "https://fuckyoumoto.xyz"
         },
         {
             name: "FUCKYOUMOTO Utils",
             description: "Collection of scripts, DA/Scatter files, to repair penangf/fogorow devices and their modifications",
-            preview: "/progzone122/projects/fuckyoumoto-utils.png",
+            preview: "/projects/fuckyoumoto-utils.png",
             link: "https://gist.github.com/progzone122/d414579aee2d62ad045ffdf034e0e18d"
         },
         {
             name: "DebloatedMotoWeed",
             description: "Shell scripts to make custom A14 firmware without bloatware from original super.img image for penangf devices",
-            preview: "/progzone122/projects/debloatedmotoweed.png",
+            preview: "/projects/debloatedmotoweed.png",
             link: "https://gist.github.com/progzone122/d414579aee2d62ad045ffdf034e0e18d"
         },
         {
             name: "Micropad",
             description: "A micropad for PC with 3 buttons and potentiometer and software to control it",
-            preview: "/progzone122/projects/micropad.png",
+            preview: "/projects/micropad.png",
             link: "https://github.com/progzone122/micropad"
         },
         {
             name: "Amazon Kindle TicTacToe",
             description: "TicTacToe game written in C++ and GTK 2.0 for Amazon Kindle PW4+ e-book using jailbreak",
-            preview: "/progzone122/projects/tictactoe-kindle.png",
+            preview: "/projects/tictactoe-kindle.png",
             link: "https://github.com/progzone122/tictactoe-kindle"
         },
         {
             name: "MixerDialog",
             description: "A simple C++ & gtk3 application to control system volume with visualization",
-            preview: "/progzone122/projects/mixerdialog.png",
+            preview: "/projects/mixerdialog.png",
             link: "https://github.com/govnorice/mixerdialog"
         },
         {
             name: "Xiaomi Mi A2 Lite Postmarket OS guide",
             description: "Guide to install Postmarket OS on Xiaomi Mi A2 lite phone with description of all nuances",
-            preview: "/progzone122/projects/xiaomi-mi-a2-lite-pos-guide.png",
+            preview: "/projects/xiaomi-mi-a2-lite-pos-guide.png",
             link: "https://gist.github.com/progzone122/d414579aee2d62ad045ffdf034e0e18d"
         },
         {
             name: "Level1 crackmes solutions",
             description: "Reverse engineering crackme “level1”. Detailed explanation of the logic, several solutions, writing a keygen for the program",
-            preview: "/progzone122/projects/level1-crackmes.png",
+            preview: "/projects/level1-crackmes.png",
             link: "https://github.com/progzone122/level1-crackmes-solutions"
         }
     ]

@@ -13,7 +13,7 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? '' : ""
+			base: process.argv.includes('dev') ? '' : "/progzone122/"
 		}
 	},
 
