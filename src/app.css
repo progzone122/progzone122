@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+    --color-mint-500: oklch(0.72 0.11 178);
+    /*--color-bg1: oklch(49.2 51.5 348.962);*/
+    /*--color-bg2: oklch(0.585 0.268 328.36);*/
+    --color-bg1: oklch(0.696 0.244 327.809);
+    --color-bg2: oklch(0.597 0.232 328.008);
+    --color-accent: oklch(0.59 0.291 311.607);
+    --color-primary: oklch(0.515 0.255 305.321);
+    --color-primary2: oklch(0.729 0.234 329.326);
+}
+body {
+    height: 100%;
+    background:
+            radial-gradient(circle at 20% 20%, var(--color-bg1) 0%, transparent 10%),
+            radial-gradient(circle at 80% 30%, var(--color-bg2) 0%, transparent 40%),
+            radial-gradient(circle at 50% 70%, var(--color-bg1) 0%, transparent 35%),
+            radial-gradient(circle at 30% 80%, var(--color-bg2) 0%, transparent 50%),
+            var(--color-bg1);
+    background-size: cover;
+    padding: 0 1em 0 3em;
+}
