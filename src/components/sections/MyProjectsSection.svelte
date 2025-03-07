@@ -31,7 +31,7 @@
             name: "DebloatedMotoWeed",
             description: "Shell scripts to make custom A14 firmware without bloatware from original super.img image for penangf devices",
             preview: `${base}/projects/debloatedmotoweed.png`,
-            link: "https://gist.github.com/progzone122/d414579aee2d62ad045ffdf034e0e18d"
+            link: "https://github.com/moto-penangf/debloatedmotoweed"
         },
         {
             name: "Micropad",
