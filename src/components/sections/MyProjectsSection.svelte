@@ -25,7 +25,7 @@
             name: "FUCKYOUMOTO Utils",
             description: "Collection of scripts, DA/Scatter files, to repair penangf/fogorow devices and their modifications",
             preview: `${base}/projects/fuckyoumoto-utils.png`,
-            link: "https://github.com/moto-penangf/fuckyoumoto"
+            link: "https://github.com/fuckyoumoto/fuckyoumoto-utils"
         },
         {
             name: "DebloatedMotoWeed",
