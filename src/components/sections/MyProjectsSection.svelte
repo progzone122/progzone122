@@ -34,6 +34,12 @@
             link: "https://github.com/moto-penangf/debloatedmotoweed"
         },
         {
+            name: "Aur-wrapper",
+            description: "A simple TypeScript wrapper for RPC API and RSS for AUR (Arch User Repository)",
+            preview: `${base}/projects/aur-wrapper.png`,
+            link: "https://github.com/progzone122/aur-wrapper"
+        },
+        {
             name: "Micropad",
             description: "A micropad for PC with 3 buttons and potentiometer and software to control it",
             preview: `${base}/projects/micropad.png`,
