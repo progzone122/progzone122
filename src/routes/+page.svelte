@@ -4,6 +4,7 @@
     import SkillsSection from "../sections/SkillsSection.svelte";
     import OtherSkillsSection from "../sections/OtherSkillsSection.svelte";
     import MyProjectsSection from "../sections/MyProjectsSection.svelte";
+    import MyCertificatesSection from "../sections/MyCertificatesSection.svelte";
 </script>
 <div class="flex flex-col gap-12">
     <!-- The first section should be +- the entire screen in height -->
@@ -17,5 +18,6 @@
         <SkillsSection />
         <OtherSkillsSection />
         <MyProjectsSection />
+        <MyCertificatesSection />
     </div>
 </div>
