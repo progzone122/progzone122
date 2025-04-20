@@ -1,5 +1,5 @@
 <script>
-    import SkillsList from "../SkillsList.svelte";
+    import SkillsList from "../components/SkillsList.svelte";
 
     const code = `let skill_names: Vec<&str> = vec!["Html / CSS", "JS / TS", "Rust", "C++", "Python", "Shell"];<br />
         let skills = create_skills(&skill_names);<br />

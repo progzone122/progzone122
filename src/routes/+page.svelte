@@ -1,9 +1,9 @@
 <script>
-    import FirstSection from "../components/sections/FirstSection.svelte";
-    import AboutSection from "../components/sections/AboutSection.svelte";
-    import SkillsSection from "../components/sections/SkillsSection.svelte";
-    import OtherSkillsSection from "../components/sections/OtherSkillsSection.svelte";
-    import MyProjectsSection from "../components/sections/MyProjectsSection.svelte";
+    import FirstSection from "../sections/FirstSection.svelte";
+    import AboutSection from "../sections/AboutSection.svelte";
+    import SkillsSection from "../sections/SkillsSection.svelte";
+    import OtherSkillsSection from "../sections/OtherSkillsSection.svelte";
+    import MyProjectsSection from "../sections/MyProjectsSection.svelte";
 </script>
 <div class="flex flex-col gap-12">
     <!-- The first section should be +- the entire screen in height -->

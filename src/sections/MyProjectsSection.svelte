@@ -1,6 +1,6 @@
 <script>
-    import ProjectComponent from "../ProjectComponent.svelte";
-    import { projectsState } from "$lib/store/projects.svelte";
+    import ProjectComponent from "../components/ProjectComponent.svelte";
+    import { projectsState } from "$lib/store/projects.svelte.ts";
 </script>
 <div class="w-full text-white"
      id="projects">
